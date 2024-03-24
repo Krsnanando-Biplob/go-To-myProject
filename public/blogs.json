@@ -1,0 +1,52 @@
+[
+  {
+    "ID": "0",
+    "Cover": "../src/images/2.png",
+    "Title": "The Enigma of Existence",
+    "Author": "Emily A. Johnson",
+    "AuthorImg": "../src/images/boy1.png",
+    "PostedDate": "March 22, 2024",
+    "ReadingTime": "10 minutes",
+    "Hashtags": ["philosophy", "consciousness", "metaphysics"]
+  },
+  {
+    "ID": "2",
+    "Cover": "../src/images/2.png",
+    "Title": "Beyond the Horizon",
+    "Author": "Michael S. Thompson",
+    "AuthorImg": "../src/images/boy1.png",
+    "PostedDate": "March 21, 2024",
+    "ReadingTime": "8 minutes",
+    "Hashtags": ["adventure", "exploration", "discovery"]
+  },
+  {
+    "ID": "4",
+    "Cover": "../src/images/2.png",
+    "Title": "The Art of Solitude",
+    "Author": "Olivia R. White",
+    "AuthorImg": "../src/images/boy1.png",
+    "PostedDate": "March 20, 2024",
+    "ReadingTime": "12 minutes",
+    "Hashtags": ["selfreflection", "meditation", "peace"]
+  },
+  {
+    "ID": "6",
+    "Cover": "../src/images/2.png",
+    "Title": "Echoes of Eternity",
+    "Author": "Benjamin K. Lee",
+    "AuthorImg": "../src/images/boy1.png",
+    "PostedDate": "March 19, 2024",
+    "ReadingTime": "15 minutes",
+    "Hashtags": ["time", "history", "legacy"]
+  },
+  {
+    "ID": "8",
+    "Cover": "../src/images/2.png",
+    "Title": "Whispers in the Dark",
+    "Author": "Sophia L. Garcia",
+    "AuthorImg": "../src/images/boy1.png",
+    "PostedDate": "March 18, 2024",
+    "ReadingTime": "7 minutes",
+    "Hashtags": ["mystery", "suspense", "thriller"]
+  }
+]
